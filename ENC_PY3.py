@@ -19,3 +19,15 @@ if bit == "64bit":
         from PY3 import encryption
  
         encryption()
+ 
+ 
+ 
+elif bit == "32bit":
+ 
+        from py32 import encryption
+ 
+ 
+        encryption()
+ 
+ 
+ 
